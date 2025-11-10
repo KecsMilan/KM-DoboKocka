@@ -1,0 +1,33 @@
+H:\11.D-IKT_Projekt munka\KM-kpo\KM-dobokocka\bin\Debug\KM-dobokocka.exe.config
+H:\11.D-IKT_Projekt munka\KM-kpo\KM-dobokocka\bin\Debug\KM-dobokocka.exe
+H:\11.D-IKT_Projekt munka\KM-kpo\KM-dobokocka\bin\Debug\KM-dobokocka.pdb
+H:\11.D-IKT_Projekt munka\KM-kpo\KM-dobokocka\obj\Debug\KM-dobokocka.csproj.AssemblyReference.cache
+H:\11.D-IKT_Projekt munka\KM-kpo\KM-dobokocka\obj\Debug\KM_dobokocka.Form1.resources
+H:\11.D-IKT_Projekt munka\KM-kpo\KM-dobokocka\obj\Debug\KM_dobokocka.Properties.Resources.resources
+H:\11.D-IKT_Projekt munka\KM-kpo\KM-dobokocka\obj\Debug\KM-dobokocka.csproj.GenerateResource.cache
+H:\11.D-IKT_Projekt munka\KM-kpo\KM-dobokocka\obj\Debug\KM-dobokocka.csproj.CoreCompileInputs.cache
+H:\11.D-IKT_Projekt munka\KM-kpo\KM-dobokocka\obj\Debug\KM-dobokocka.exe
+H:\11.D-IKT_Projekt munka\KM-kpo\KM-dobokocka\obj\Debug\KM-dobokocka.pdb
+H:\11.D-IKT_Projekt munka\KM-kpo\KM-dobokocka\obj\Debug\KM-dobokocka.exe.config
+C:\Users\Kecskeméti Milán\source\repos\KM-dobokocka\bin\Debug\KM-dobokocka.exe.config
+C:\Users\Kecskeméti Milán\source\repos\KM-dobokocka\bin\Debug\KM-dobokocka.exe
+C:\Users\Kecskeméti Milán\source\repos\KM-dobokocka\bin\Debug\KM-dobokocka.pdb
+C:\Users\Kecskeméti Milán\source\repos\KM-dobokocka\obj\Debug\KM-dobokocka.csproj.AssemblyReference.cache
+C:\Users\Kecskeméti Milán\source\repos\KM-dobokocka\obj\Debug\KM-dobokocka.exe.config
+C:\Users\Kecskeméti Milán\source\repos\KM-dobokocka\obj\Debug\KM_dobokocka.Form1.resources
+C:\Users\Kecskeméti Milán\source\repos\KM-dobokocka\obj\Debug\KM_dobokocka.Properties.Resources.resources
+C:\Users\Kecskeméti Milán\source\repos\KM-dobokocka\obj\Debug\KM-dobokocka.csproj.GenerateResource.cache
+C:\Users\Kecskeméti Milán\source\repos\KM-dobokocka\obj\Debug\KM-dobokocka.csproj.CoreCompileInputs.cache
+C:\Users\Kecskeméti Milán\source\repos\KM-dobokocka\obj\Debug\KM-dobokocka.exe
+C:\Users\Kecskeméti Milán\source\repos\KM-dobokocka\obj\Debug\KM-dobokocka.pdb
+C:\Users\KecskemetiMilan\source\repos\KM-dobokocka_folyamatAlatt\KM-dobokocka\bin\Debug\KM-dobokocka.exe.config
+C:\Users\KecskemetiMilan\source\repos\KM-dobokocka_folyamatAlatt\KM-dobokocka\bin\Debug\KM-dobokocka.exe
+C:\Users\KecskemetiMilan\source\repos\KM-dobokocka_folyamatAlatt\KM-dobokocka\bin\Debug\KM-dobokocka.pdb
+C:\Users\KecskemetiMilan\source\repos\KM-dobokocka_folyamatAlatt\KM-dobokocka\obj\Debug\KM-dobokocka.csproj.AssemblyReference.cache
+C:\Users\KecskemetiMilan\source\repos\KM-dobokocka_folyamatAlatt\KM-dobokocka\obj\Debug\KM-dobokocka.exe.config
+C:\Users\KecskemetiMilan\source\repos\KM-dobokocka_folyamatAlatt\KM-dobokocka\obj\Debug\KM_dobokocka.Form1.resources
+C:\Users\KecskemetiMilan\source\repos\KM-dobokocka_folyamatAlatt\KM-dobokocka\obj\Debug\KM_dobokocka.Properties.Resources.resources
+C:\Users\KecskemetiMilan\source\repos\KM-dobokocka_folyamatAlatt\KM-dobokocka\obj\Debug\KM-dobokocka.csproj.GenerateResource.cache
+C:\Users\KecskemetiMilan\source\repos\KM-dobokocka_folyamatAlatt\KM-dobokocka\obj\Debug\KM-dobokocka.csproj.CoreCompileInputs.cache
+C:\Users\KecskemetiMilan\source\repos\KM-dobokocka_folyamatAlatt\KM-dobokocka\obj\Debug\KM-dobokocka.exe
+C:\Users\KecskemetiMilan\source\repos\KM-dobokocka_folyamatAlatt\KM-dobokocka\obj\Debug\KM-dobokocka.pdb
